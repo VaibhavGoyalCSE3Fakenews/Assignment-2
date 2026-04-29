@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+/* Sections */
+section {
+    padding: 30px;
+    margin: 10px;
+}
+
+/* Services */
+.service-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 10px 0;
+    background-color: #f9f9f9;
+}
+
+/* Testimonials */
+.testimonial {
+    background-color: #eee;
+    padding: 15px;
+    margin: 10px 0;
+    border-left: 5px solid #333;
+}
+
+/* Contact Form */
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 15px;
+}
